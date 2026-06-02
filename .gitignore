@@ -2,3 +2,8 @@
 SJVideoPlayerProject/SJVideoPlayer.xcworkspace/xcuserdata/changsanjiang.xcuserdatad/UserInterfaceState.xcuserstate
 SJVideoPlayerProject/SJVideoPlayer.xcodeproj/project.pbxproj
 SJVideoPlayerProject/SJVideoPlayer.xcworkspace/xcuserdata/bluedancer.xcuserdatad/UserInterfaceState.xcuserstate
+
+# Claude Code (本地配置，不上传)
+.claude/
+CLAUDE.md
+CLAUDE.local.md
