@@ -1,1 +1,0 @@
-../../../SJFullscreenPopGesture/SJFullscreenPopGesture/ObjC/SJFullscreenPopGesture.h

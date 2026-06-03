@@ -7,3 +7,8 @@ SJVideoPlayerProject/SJVideoPlayer.xcworkspace/xcuserdata/bluedancer.xcuserdatad
 .claude/
 CLAUDE.md
 CLAUDE.local.md
+
+# SPM / 系统
+.swiftpm/
+.DS_Store
+Package.resolved

@@ -1,1 +1,0 @@
-../../../../../SJVideoPlayer/ControlLayers/SJSmallViewControlLayer/SJSmallViewControlLayer.h
