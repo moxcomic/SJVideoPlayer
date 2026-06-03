@@ -12,3 +12,9 @@ CLAUDE.local.md
 .swiftpm/
 .DS_Store
 Package.resolved
+
+# Xcode 工程用户态
+Example/**/xcuserdata/
+Example/**/project.xcworkspace/xcuserdata/
+Example/**/project.xcworkspace/xcshareddata/swiftpm/
+*.xcuserstate
